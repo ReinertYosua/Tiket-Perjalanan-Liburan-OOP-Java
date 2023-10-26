@@ -29,6 +29,9 @@ Class dan Hubungan:
 5.	**TiketBus**:
     •	Properties:
       o	Tipe Bus
+
+
+
 Menu Program:
 Berikut ini adalah menu untuk program manajemen penjualan tiket:
 1.	Tambah Destinasi
